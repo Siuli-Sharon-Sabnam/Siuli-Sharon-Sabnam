@@ -38,5 +38,4 @@ My experience spans across:
 ## **Let’s Connect!**
 
 - **LinkedIn:** [linkedin.com/in/siulisharon](https://www.linkedin.com/in/siulisharon)
-- **Portfolio:** *(Add your portfolio link)*
-- **Email:** *(Add your professional email)*
+- **Email:** *(sabnam.siuli@gmail.com)*
