@@ -37,5 +37,5 @@ My experience spans across:
 
 ## **Let’s Connect!**
 
-- **LinkedIn:** [linkedin.com/in/siulisharon](https://www.linkedin.com/in/siulisharon)
+- **LinkedIn:** [linkedin.com/in/siulisharon](https://www.linkedin.com/in/siuli-sharon-sabnam)
 - **Email:** *(sabnam.siuli@gmail.com)*
