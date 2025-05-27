@@ -1,16 +1,15 @@
 
 # **Hi, I'm Siuli Sharon Sabnam**  
-**Industrial Design B.Tech Student | Aspiring Data Analyst & AI Product Designer**
 
 ---
 
 ## **About Me**
 
-I'm a passionate Industrial Design student from **NIT Rourkela**, with a knack for merging **design thinking** with **data analytics**, **machine learning**, and **UX/UI design**. I love building projects that solve real-world problems—from travel planning to fashion styling, and sustainable health systems.
+I'm a passionate Designer nd Tech Enthusiast from **NIT Rourkela**, with a knack for merging **design thinking** with **data analytics**, **machine learning** . I love building projects that solve real-world problems—from medical recommentation system to fashion styling, and business insights.
 
 My experience spans across:
-- **Data Analysis** (Python, Power BI, Pandas)
-- **Product Design** (Figma, Adobe XD, Tangible Prototypes)
+- **Data Analysis** (Python, Power BI, Pandas,MySQL)
+- **Product Design** (Figma)
 - **Machine Learning** (scikit-learn, OpenCV, ML pipelines)
 - **Hackathons** and **User-Centered Research**
 
@@ -36,19 +35,6 @@ My experience spans across:
 
 ---
 
-## **Current Projects**
-- **Globetrotter App:** Seamless multi-modal travel planning with Ola Maps.
-- **Wardrobe Wizard:** AI-powered outfit recommendation system built for Myntra HackerRamp.
-- **Sustainable Medical Supply Chain:** AI logistics system for timely and ethical distribution of medical essentials.
-
----
-
-## **Achievements**
-- Finalist in multiple national-level **hackathons**
-- Data Analyst Intern at **Formativz Digitech**
-- Led multiple **UX/UI case studies** and design research projects
-
----
 
 ## **Let’s Connect!**
 
