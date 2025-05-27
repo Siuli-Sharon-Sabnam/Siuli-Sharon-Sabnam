@@ -5,7 +5,7 @@
 
 ## **About Me**
 
-I'm a passionate Designer And Tech Enthusiast from **NIT Rourkela**, with a knack for merging **design thinking** with **data analytics**, **machine learning** . 
+I'm a passionate Designer And aspiring Data Scientist from **NIT Rourkela**, with a knack for merging **design thinking** with **data analytics**, **machine learning** . 
 My experience spans across:
 - **Data Analysis** (Python, Power BI, Pandas,MySQL)
 - **Product Design** (Figma)
